@@ -3,16 +3,16 @@
 This repository contains the analysis, insights, and strategic recommendations for the **Health, Wellness & Self-Care** category, focused specifically on the **Nutritional Supplements Market**.  
 The objective of the project is to identify category characteristics, demand behavior, consumer patterns, and business opportunities relevant to **42Signals** and similar market intelligence platforms.
 
-**⚒️ Tools Used:**
+## ⚒️ Tools Used:
 1. **Excel**
 2. **Python**
 3. **PowerBI**
 
 ## 🧠 Strategic Frameworks Used
-
 - **SWOT Analysis**
 - **PESTLE Analysis**
 - **Porter’s Five Forces**
+
 
 The dataset used in this analysis contained sales records of supplement products across multiple months and geographies. Using Python and exploratory data analysis, the data was cleaned, processed, and evaluated to understand market size, product performance, pricing trends, and consumer behavior.
 
